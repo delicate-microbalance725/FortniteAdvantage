@@ -1,0 +1,11 @@
+{
+  "description": "Hidden for streaming",
+  "precision": {
+    "fov": 20,
+    "smoothing": 10
+  },
+  "visuals": {
+    "distance": 100,
+    "glow": false
+  }
+}

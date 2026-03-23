@@ -1,0 +1,43 @@
+{
+  "version": "3.2.1",
+  "auto_update": true,
+  "injection_method": "manual_map",
+  "security": {
+    "anti_screenshot": true,
+    "anti_recording": true,
+    "process_hiding": true,
+    "signature_randomization": true
+  },
+  "features": {
+    "precision_assist": {
+      "enabled": true,
+      "fov": 50,
+      "smoothing": 5.5,
+      "prediction": true,
+      "target_selection": "closest_to_crosshair",
+      "bone": "head",
+      "visibility_check": true
+    },
+    "visual_enhancement": {
+      "enabled": true,
+      "player_esp": true,
+      "loot_esp": true,
+      "vehicle_esp": true,
+      "distance": 300,
+      "glow": true,
+      "chams": false
+    },
+    "building_assist": {
+      "enabled": true,
+      "fast_edit": true,
+      "auto_build": false,
+      "edit_prediction": true
+    },
+    "misc": {
+      "no_bloom": true,
+      "no_recoil": true,
+      "instant_reload": false,
+      "speed_multiplier": 1.0
+    }
+  }
+}

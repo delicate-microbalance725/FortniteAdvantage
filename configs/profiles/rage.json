@@ -1,0 +1,11 @@
+{
+  "description": "Maximum performance (risky)",
+  "precision": {
+    "fov": 180,
+    "smoothing": 1
+  },
+  "visuals": {
+    "distance": 500,
+    "glow": true
+  }
+}

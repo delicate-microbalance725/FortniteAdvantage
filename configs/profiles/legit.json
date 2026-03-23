@@ -1,0 +1,11 @@
+{
+  "description": "Safe settings for regular play",
+  "precision": {
+    "fov": 30,
+    "smoothing": 8
+  },
+  "visuals": {
+    "distance": 150,
+    "glow": false
+  }
+}
