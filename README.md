@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Banner](assets/images/banner.png)
 
 [![Version](https://img.shields.io/badge/version-3.2.1-brightgreen)](https://github.com/username/FortniteAdvantage/releases)
 [![Status](https://img.shields.io/badge/status-undetected-success)]()
